@@ -17,7 +17,7 @@ const playfairDisplay = Playfair_Display({
 export const metadata: Metadata = {
   title: "MemeCoin Frenzy — Fun Memecoin for the Community",
   description: "Experience MemeCoin Frenzy, the playful memecoin built for easy participation. Transparent tokenomics, fast onboarding, and a community-driven vibe.",
-  keywords: ["memecoin","memes","crypto","community","tokenomics","onboarding","buy memecoin","web3"],
+  keywords: ["memecoin", "memes", "crypto", "community", "tokenomics", "onboarding", "buy memecoin", "web3"],
   alternates: { canonical: "/" },
   openGraph: {
     type: "website",
