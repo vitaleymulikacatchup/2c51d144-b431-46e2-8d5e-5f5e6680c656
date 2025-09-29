@@ -20,6 +20,12 @@ export default function Home() {
         <NavbarLayoutFloatingInline
           logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/design-a-simple-high-contrast-logotype-w-1759137242806-49caa8f9.jpg"
           buttonText="Buy MemeCoin"
+          navItems={[
+            { name: "Home", id: "hero" },
+            { name: "About", id: "about" },
+            { name: "How to Buy", id: "how-to-buy" },
+            { name: "Tokenomics", id: "tokenomics" },
+          ]}
         />
       </div>
 
