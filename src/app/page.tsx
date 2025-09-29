@@ -19,7 +19,6 @@ export default function Home() {
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingInline
           logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/design-a-simple-high-contrast-logotype-w-1759137242806-49caa8f9.jpg"
-          logoAlt="MemeCoin Frenzy Logo"
           buttonText="Buy MemeCoin"
         />
       </div>
