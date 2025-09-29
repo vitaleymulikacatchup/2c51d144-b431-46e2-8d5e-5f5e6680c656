@@ -46,19 +46,19 @@ export default function Home() {
         <HowToBuy3D
           steps={[
             {
-              position: "1",
+              position: "left",
               image: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/a-flat-cartoon-portrait-of-an-anthropomo-1759137237594-8e42b5b4.jpg",
               title: "Step 1",
               description: "Connect your wallet",
             },
             {
-              position: "2",
+              position: "center",
               image: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/a-flat-cartoon-portrait-of-an-anthropomo-1759137239305-c725929f.jpg",
               title: "Step 2",
               description: "Choose your amount",
             },
             {
-              position: "3",
+              position: "right",
               image: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/a-flat-cartoon-portrait-of-an-anthropomo-1759137241151-d8f5789c.jpg",
               title: "Step 3",
               description: "Confirm your purchase",
